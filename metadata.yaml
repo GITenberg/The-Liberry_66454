@@ -1,0 +1,25 @@
+_repo: The-Liberry_66454
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hay, Ian
+    aliases:
+    - Beith, Ian Hay
+    - Beith, John Hay
+    birthdate: 1876
+    deathdate: 1952
+    gutenberg_agent_id: '4304'
+    url: http://www.gutenberg.org/2009/agents/4304
+    wikipedia: https://en.wikipedia.org/wiki/John_Hay_Beith
+description: ''
+gutenberg_issued: '2021-10-03'
+identifiers:
+  gutenberg: '66454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '"The Liberry"'
+url: http://www.gutenberg.org/ebooks/66454
